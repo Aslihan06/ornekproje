@@ -145,7 +145,7 @@ footer{
       font-size: 40px;
     }
   }
-  @media screen and (max-width: 860px){
+@media screen and (max-width: 860px){
     .banner .welcome{
       font-size: 28px;
     }
@@ -173,7 +173,7 @@ footer{
       display: block;
       margin: 20px auto;
     }
-    .images li{
+    .images2 li{
         with:100%;
         display:block;
         margin:20px auto;
