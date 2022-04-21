@@ -140,12 +140,12 @@ footer{
     padding: 20px;
     text-align: center;
 }
-@media screen and (max-width: 1400px){
+@media screen and (max-width: 1000px){
     .banner .welcome{
       font-size: 40px;
     }
   }
-  @media screen and (max-width: 960px){
+  @media screen and (max-width: 860px){
     .banner .welcome{
       font-size: 28px;
     }
@@ -173,6 +173,12 @@ footer{
       display: block;
       margin: 20px auto;
     }
+    .images li{
+        with:100%;
+        display:block;
+        margin:20px auto;
+     }
+ 
   }
   @media screen and (max-width: 560px){
     .banner .welcome{
